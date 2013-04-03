@@ -13,7 +13,7 @@
 
 #define ANGLE_ROTATION 0.2
 #define CALL_TIMER     30
-#define TEX_IMAGE_NAME "D:/workspace/Test_GLUT/test.jpg"
+#define TEX_IMAGE_NAME "D:/workspace/Test_texture_opengl/test.jpg"
 
 float WinWidth       = 700.0;
 float WinHeight      = 700.0;
